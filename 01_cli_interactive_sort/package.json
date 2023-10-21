@@ -1,0 +1,12 @@
+{
+  "name": "01_cli_interactive_sort",
+  "version": "1.0.0",
+  "description": "Small cli that provides few ways of string sorting",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
